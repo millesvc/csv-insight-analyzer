@@ -1,0 +1,31 @@
+id,nombre,edad,ciudad,salario,departamento,años_experiencia,evaluacion,fecha_ingreso
+1,Ana García,28,Santiago,850000,Tecnología,3,4.5,2021-03-15
+2,Carlos López,34,Valparaíso,1200000,Marketing,8,3.8,2016-07-01
+3,María Torres,25,Santiago,720000,Recursos Humanos,1,4.2,2023-01-10
+4,Juan Pérez,41,Concepción,1500000,Tecnología,15,4.9,2009-05-22
+5,Sofía Ramírez,30,Santiago,950000,Finanzas,5,4.1,2019-11-03
+6,Diego Muñoz,27,Viña del Mar,780000,Marketing,2,3.5,2022-06-14
+7,Valentina Silva,36,Santiago,1300000,Tecnología,10,4.7,2014-02-28
+8,Andrés Castro,29,Temuco,820000,Operaciones,4,3.9,2020-08-19
+9,Camila Herrera,33,Santiago,1100000,Finanzas,7,4.3,2017-04-05
+10,Felipe Morales,45,Antofagasta,1800000,Tecnología,20,5.0,2004-09-30
+11,Isidora Vega,26,Santiago,700000,Marketing,1,3.7,2023-03-20
+12,Matías Rojas,38,Concepción,1250000,Operaciones,12,4.4,2012-10-11
+13,Paula Navarro,31,Santiago,980000,Recursos Humanos,6,4.0,2018-12-07
+14,Sebastián Díaz,24,Valparaíso,650000,Tecnología,1,3.6,2023-07-01
+15,Daniela Flores,37,Santiago,1350000,Finanzas,11,4.6,2013-01-18
+16,Nicolás Reyes,43,Santiago,1650000,Marketing,17,4.8,2007-06-25
+17,Francisca Pinto,28,Viña del Mar,790000,Tecnología,3,4.2,2021-09-08
+18,Tomás Guerrero,32,Santiago,1050000,Operaciones,7,4.1,2017-11-15
+19,Renata Soto,29,Concepción,,Marketing,4,3.8,2020-02-27
+20,Rodrigo Núñez,40,Santiago,1450000,Finanzas,14,4.7,2010-07-14
+21,Ignacia Medina,27,Santiago,760000,Recursos Humanos,2,3.9,2022-04-03
+22,Cristóbal Vargas,35,Antofagasta,1180000,Tecnología,9,4.4,2015-08-21
+23,Martina Fuentes,26,Santiago,710000,Marketing,1,3.6,2023-05-16
+24,Gustavo Paredes,44,Valparaíso,1550000,Operaciones,18,4.9,2006-03-09
+25,Josefa Cortés,30,Santiago,900000,Finanzas,5,4.0,2019-10-28
+26,Emilio Arenas,33,Santiago,,Tecnología,7,4.3,2017-01-12
+27,Victoria Espinoza,28,Concepción,830000,Marketing,3,3.7,2021-06-30
+28,Héctor Ibáñez,39,Santiago,1400000,Finanzas,13,4.6,2011-04-17
+29,Natalia Molina,25,Viña del Mar,680000,Recursos Humanos,1,3.8,2023-02-14
+30,Álvaro Jiménez,47,Santiago,1900000,Tecnología,22,5.0,2002-11-05
