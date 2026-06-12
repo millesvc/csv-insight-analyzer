@@ -226,8 +226,8 @@ El sistema maneja explícitamente:
 ## 👤 Autor
 
 **MillesvcStudio** — Desarrollo web y soluciones digitales para PYMES  
-📍 Santiago, Chile  
-🔗 [github.com/millesvcstudio](https://github.com/millesvcstudio)
+📍 Viña Del Mar, Chile  
+🔗 [github.com/millesvc](https://github.com/millesvc)
 
 ---
 
